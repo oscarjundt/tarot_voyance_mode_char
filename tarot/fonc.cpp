@@ -1,6 +1,7 @@
 #include <random>
 #include <ctime>
 #include <iostream>
+#include "fonc.h"
 
 using namespace std;
 
